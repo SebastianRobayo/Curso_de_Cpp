@@ -1,0 +1,5 @@
+//////////////////////////////////////////////////////////////////////////
+Bloque 1 entradas,salidas y expresiones
+
+En este bloque veremos las entradas y salidas del sistema y las expresiones 
+como lo son las matematicas.
